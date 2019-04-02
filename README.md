@@ -2,6 +2,7 @@
 
 ### 2019
 
+- [Vue diff 算法分析](https://github.com/zhuping/blog/issues/7)
 - [100 行代码实现 webpack](https://github.com/zhuping/blog/issues/6)
 
 ### 2018
