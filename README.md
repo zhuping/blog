@@ -2,6 +2,8 @@
 
 ### 2019
 
+- [Vue 源码学习（二） - 构造函数](https://github.com/zhuping/blog/issues/9)
+- [Vue 源码学习（一） - 目录结构与构建](https://github.com/zhuping/blog/issues/8)
 - [Vue diff 算法分析](https://github.com/zhuping/blog/issues/7)
 - [100 行代码实现 webpack](https://github.com/zhuping/blog/issues/6)
 
