@@ -2,6 +2,7 @@
 
 ### 2019
 
+- [Vue 源码学习（四）- initMixin](https://github.com/zhuping/blog/issues/11)
 - [Vue 源码学习（三）- Vue.extend](https://github.com/zhuping/blog/issues/10)
 - [Vue 源码学习（二） - 构造函数](https://github.com/zhuping/blog/issues/9)
 - [Vue 源码学习（一） - 目录结构与构建](https://github.com/zhuping/blog/issues/8)
