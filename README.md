@@ -2,6 +2,7 @@
 
 ### 2019
 
+- [你可能不知道的 vertical-align](https://github.com/zhuping/blog/issues/12)
 - [Vue 源码学习（四）- initMixin](https://github.com/zhuping/blog/issues/11)
 - [Vue 源码学习（三）- Vue.extend](https://github.com/zhuping/blog/issues/10)
 - [Vue 源码学习（二） - 构造函数](https://github.com/zhuping/blog/issues/9)
