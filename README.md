@@ -1,5 +1,9 @@
 # 博客记录
 
+### 2020
+
+- [【Vue CLI】手把手教你撸插件](https://github.com/zhuping/blog/issues/13)
+
 ### 2019
 
 - [你可能不知道的 vertical-align](https://github.com/zhuping/blog/issues/12)
