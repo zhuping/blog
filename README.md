@@ -2,6 +2,7 @@
 
 ### 2020
 
+- [今天你买对保险了吗？](https://github.com/zhuping/blog/issues/14)
 - [【Vue CLI】手把手教你撸插件](https://github.com/zhuping/blog/issues/13)
 
 ### 2019
